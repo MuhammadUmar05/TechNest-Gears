@@ -12,4 +12,4 @@ A modern and responsive e-commerce product listing page created using **HTML**, 
 - ⚙️ **Dynamic Updates:** All interactions are handled efficiently with JavaScript DOM manipulation.
 
 ## 🎥 Demo
-Check out a live version here: [Insert your demo link]
+Check out a live version here: https://technest-gears.netlify.app/
