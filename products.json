@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Headphones",
+    "price": "$59",
+    "description": "Comfortable and long-lasting wireless headphones with rich sound quality.",
+    "url": "https://vmart.pk/wp-content/uploads/2024/09/Boost-Wave-Wireless-Headset.webp"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": "$99",
+    "description": "Track your fitness and stay connected with this advanced smart watch.",
+    "url": "https://appleman.pk/cdn/shop/files/3_e7a6e623-53d4-406e-835f-544b82af8796.png?v=1709319331&width=2048"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "price": "$25",
+    "description": "Ergonomic aluminum stand for comfortable laptop use.",
+    "url": "https://alogic.in/cdn/shop/products/media-40523_1_grande.jpg?v=1688017832"
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": "$45",
+    "description": "Portable speaker with excellent bass and Bluetooth 5.0 support.",
+    "url": "https://www.laraibnow.com/images/product_gallery/1686066189_tronsmart-t7-mini-portable-bluetooth-speaker.jpg"
+  },
+  {
+    "id": 5,
+    "name": "USB Desk Lamp",
+    "price": "$20",
+    "description": "Bright LED desk lamp with adjustable angles and USB charging support.",
+    "url": "https://media.officedepot.com/images/f_auto,q_auto,e_sharpen,h_450/products/6735161/6735161_o01_011322/6735161"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Keyboard",
+    "price": "$35",
+    "description": "Slim and silent wireless keyboard with multimedia controls.",
+    "url": "https://cdn.shopify.com/s/files/1/0289/9286/4304/files/A4Tech-Quiet-Key-FSTYLER-FBK27C-AS-Wireless-Keyboard-1.2.jpg?v=1730376607"
+  },
+  {
+    "id": 7,
+    "name": "Backpack",
+    "price": "$50",
+    "description": "Spacious and durable backpack suitable for travel and school.",
+    "url": "https://herschel.eu/content/dam/herschel/products/11403/11403-00001-OS_01.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Mouse",
+    "price": "$40",
+    "description": "High-precision gaming mouse with customizable RGB lighting.",
+    "url": "https://kreo-tech.com/cdn/shop/files/hawk-first-iamge.png?v=1706688474"
+  },
+  {
+    "id": 9,
+    "name": "Portable Charger",
+    "price": "$35",
+    "description": "Powerful 10,000mAh power bank with fast charging support.",
+    "url": "https://www.pure-gear.com/media/catalog/product/cache/855918a59ccac126517757641593135a/6/2/62632pg_purejuice5k_black_00_1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tablet Stylus",
+    "price": "$15",
+    "description": "Precision stylus pen compatible with most tablets and touchscreens.",
+    "url": "https://alhamdtech.pk/cdn/shop/files/ugee-p01d-graphics-tablet-stylus-159456.jpg?v=1723544625"
+  },
+  {
+    "id": 11,
+    "name": "Noise Cancelling Earbuds",
+    "price": "$75",
+    "description": "True wireless earbuds with noise-cancelling and long battery life.",
+    "url": "https://vmart.pk/wp-content/uploads/2023/12/Anker-Life-P3-Noise-Cancelling-Earbuds.webp"
+  },
+  {
+    "id": 12,
+    "name": "Smart Light Bulb",
+    "price": "$12",
+    "description": "Voice-controlled smart bulb with adjustable colors and brightness.",
+    "url": "https://www.blockbluelight.co.uk/cdn/shop/products/blockbluelight-blue-light-free-lighting-sweet-dreams-sleep-bulb-e14-small-screw-fitting-28508292481156.jpg?v=1651267625"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Charger",
+    "price": "$30",
+    "description": "Fast wireless charging pad for smartphones and accessories.",
+    "url": "https://appleman.pk/cdn/shop/files/acefast-e16-desktop-3in1-wireless-charging-holder.jpg?v=1725087753"
+  },
+  {
+    "id": 14,
+    "name": "Fitness Tracker",
+    "price": "$55",
+    "description": "Lightweight fitness tracker with heart rate monitoring and step counting.",
+    "url": "https://pyxis.nymag.com/v1/imgs/921/c0c/d56eeaa21522d8918ee1cedde9dea91293.rsquare.w600.jpg"
+  },
+  {
+    "id": 15,
+    "name": "4K Action Camera",
+    "price": "$120",
+    "description": "Durable and waterproof action camera with 4K recording capability.",
+    "url": "https://m.media-amazon.com/images/I/610A-jBM4hL._SS1000_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Laptop Cooling Pad",
+    "price": "$25",
+    "description": "Cooling pad with adjustable fan speeds for enhanced laptop cooling.",
+    "url": "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/1/2/1267627-1.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Phone Stand",
+    "price": "$10",
+    "description": "Adjustable and foldable phone stand for desk and bedside use.",
+    "url": "https://image.made-in-china.com/2f0j00dRZkEmjBMOzp/Cell-Phone-Stand-Tablet-Stand-Adjustable-Angle-Height-Phone-Stand-for-Desk-Partially-Foldable-Portable-Phone-Holder-Compatible-for-iPhone-iPad-Black-Q7-2-.webp"
+  },
+  {
+    "id": 18,
+    "name": "HD Webcam",
+    "price": "$65",
+    "description": "1080p webcam with autofocus and built-in noise-cancelling microphone.",
+    "url": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_S5AtE04yJdjbin5FEjqJY6K10bUBXyu9Bes5LCbV.jpg"
+  },
+  {
+    "id": 19,
+    "name": "VR Headset",
+    "price": "$300",
+    "description": "Immersive VR headset for gaming and 3D experiences.",
+    "url": "https://m.media-amazon.com/images/I/51K2o+8VPrL.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Drone with Camera",
+    "price": "$200",
+    "description": "Compact drone with 1080p camera and GPS functionality.",
+    "url": "https://static-01.daraz.pk/p/45112aaac99a0b8e0df4c3e4bbabbecd.jpg"
+  }
+]
