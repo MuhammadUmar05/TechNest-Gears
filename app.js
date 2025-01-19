@@ -119,7 +119,7 @@ function removeFromCart(productId) {
         button.classList.add("btn-outline-light");
     }
 }
-
+// fetch products data from json
 async function getProducts() {
     try {
         let response = await fetch('products.json');
